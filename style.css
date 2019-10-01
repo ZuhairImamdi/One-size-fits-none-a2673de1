@@ -1,0 +1,26 @@
+h1 {
+    font-size:60px;
+    color: red;
+}
+h2 {
+	font-size: 65px;
+	color: blue;
+}
+li{ 
+   font-size: 50px;
+   color: orange; }
+
+li.link {
+
+}
+a{
+	font-size: 50px;
+	color: orange;
+}
+
+body{
+	background-color: lightblue
+}
+img{
+	width: 500px;
+}
